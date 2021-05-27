@@ -1,0 +1,4 @@
+#Thu May 27 13:54:33 ICT 2021
+base.0=D\:\\UIT\\HK6\\Mobile\\TH3\\ResponsiveDashboard\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
